@@ -1,0 +1,817 @@
+[WARNING] Dataset path does not exist: /large_storage/ctc/userspace/aadduri/datasets/hvg/replogle_copy/
+[INFO] Configuration validation passed
+[INFO] Initializing DataModule: batch_size=128, workers=24, random_seed=42
+[INFO] Processing dataset replogle:
+[INFO]   - Training dataset: True
+[INFO]   - Zeroshot cell types: []
+[INFO]   - Fewshot cell types: ['hepg2']
+[INFO] 
+
+[INFO] Done! Train / Val / Test splits: 0 / 0 / 0
+[INFO] Configuration validation passed
+[INFO] Initializing DataModule: batch_size=128, workers=24, random_seed=42
+[INFO] Processing dataset replogle:
+[INFO]   - Training dataset: True
+[INFO]   - Zeroshot cell types: []
+[INFO]   - Fewshot cell types: ['hepg2']
+[WARNING] No cell barcode information found in /home/yinhua/CellPertQA/state-sets-reproduce/baselines/dataset/processed_data/replogle.h5ad. Generating generic barcodes.
+[INFO] 
+
+[INFO] Done! Train / Val / Test splits: 4 / 1 / 1
+[INFO] Configuration validation passed
+[INFO] Initializing DataModule: batch_size=128, workers=24, random_seed=42
+[INFO] Processing dataset replogle:
+[INFO]   - Training dataset: True
+[INFO]   - Zeroshot cell types: []
+[INFO]   - Fewshot cell types: ['hepg2']
+[WARNING] No cell barcode information found in /home/yinhua/CellPertQA/state-sets-reproduce/baselines/dataset/processed_data/replogle.h5ad. Generating generic barcodes.
+[INFO] 
+
+[INFO] Done! Train / Val / Test splits: 4 / 1 / 1
+[INFO] Configuration validation passed
+[INFO] Initializing DataModule: batch_size=128, workers=24, random_seed=42
+[INFO] Processing dataset replogle:
+[INFO]   - Training dataset: True
+[INFO]   - Zeroshot cell types: []
+[INFO]   - Fewshot cell types: ['hepg2']
+[WARNING] No cell barcode information found in /home/yinhua/CellPertQA/state-sets-reproduce/baselines/dataset/processed_data/replogle.h5ad. Generating generic barcodes.
+[INFO] 
+
+[INFO] Done! Train / Val / Test splits: 4 / 1 / 1
+[INFO] Creating perturbation batch sampler with metadata caching (using codes)...
+[INFO] Total # cells 9801. Cell set size mean / std before resampling: 1.00 / 0.00.
+[INFO] Creating meta-batches with cell_sentence_len=1...
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Sampler created with 77 batches in 0.01 seconds.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Creating perturbation batch sampler with metadata caching (using codes)...
+[INFO] Total # cells 611710. Cell set size mean / std before resampling: 1.00 / 0.00.
+[INFO] Creating meta-batches with cell_sentence_len=1...
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Sampler created with 4779 batches in 0.77 seconds.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Configuration validation passed
+[INFO] Initializing DataModule: batch_size=128, workers=24, random_seed=42
+[INFO] Processing dataset replogle:
+[INFO]   - Training dataset: True
+[INFO]   - Zeroshot cell types: []
+[INFO]   - Fewshot cell types: ['hepg2']
+[WARNING] No cell barcode information found in /home/yinhua/CellPertQA/state-sets-reproduce/baselines/dataset/processed_data/replogle.h5ad. Generating generic barcodes.
+[INFO] 
+
+[INFO] Done! Train / Val / Test splits: 4 / 1 / 1
+[INFO] Downloading...
+[INFO] Downloading...
+[INFO] Building co-expression similarity graph...
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Configuration validation passed
+[INFO] Initializing DataModule: batch_size=128, workers=24, random_seed=42
+[INFO] Processing dataset replogle:
+[INFO]   - Training dataset: True
+[INFO]   - Zeroshot cell types: []
+[INFO]   - Fewshot cell types: ['hepg2']
+[WARNING] No cell barcode information found in /home/yinhua/CellPertQA/state-sets-reproduce/baselines/dataset/processed_data/replogle.h5ad. Generating generic barcodes.
+[INFO] 
+
+[INFO] Done! Train / Val / Test splits: 4 / 1 / 1
+[INFO] Creating perturbation batch sampler with metadata caching (using codes)...
+[INFO] Total # cells 9801. Cell set size mean / std before resampling: 1.00 / 0.00.
+[INFO] Creating meta-batches with cell_sentence_len=1...
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Sampler created with 77 batches in 0.01 seconds.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Creating perturbation batch sampler with metadata caching (using codes)...
+[INFO] Total # cells 611710. Cell set size mean / std before resampling: 1.00 / 0.00.
+[INFO] Creating meta-batches with cell_sentence_len=1...
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Sampler created with 4779 batches in 0.92 seconds.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Configuration validation passed
+[INFO] Initializing DataModule: batch_size=128, workers=24, random_seed=42
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Configuration validation passed
+[INFO] Initializing DataModule: batch_size=128, workers=24, random_seed=42
+[INFO] Processing dataset replogle:
+[INFO]   - Training dataset: True
+[INFO]   - Zeroshot cell types: []
+[INFO]   - Fewshot cell types: ['k562']
+[INFO] 
+
+[INFO] Done! Train / Val / Test splits: 1 / 0 / 0
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Configuration validation passed
+[INFO] Initializing DataModule: batch_size=128, workers=24, random_seed=42
+[INFO] Processing dataset replogle:
+[INFO]   - Training dataset: True
+[INFO]   - Zeroshot cell types: []
+[INFO]   - Fewshot cell types: ['k562']
+[INFO] 
+
+[INFO] Done! Train / Val / Test splits: 1 / 0 / 0
+[INFO] Creating perturbation batch sampler with metadata caching (using codes)...
+[INFO] Total # cells 161662. Cell set size mean / std before resampling: 1.00 / 0.00.
+[INFO] Creating meta-batches with cell_sentence_len=1...
+[INFO] Of all batches, 161662 were full and 0 were partial.
+[INFO] Sampler created with 1263 batches in 0.19 seconds.
+[INFO] Of all batches, 161662 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Configuration validation passed
+[INFO] Initializing DataModule: batch_size=128, workers=24, random_seed=42
+[INFO] Processing dataset replogle:
+[INFO]   - Training dataset: True
+[INFO]   - Zeroshot cell types: []
+[INFO]   - Fewshot cell types: ['K562-test']
+[INFO] 
+
+[INFO] Done! Train / Val / Test splits: 2 / 0 / 0
+[INFO] Creating perturbation batch sampler with metadata caching (using codes)...
+[INFO] Total # cells 161662. Cell set size mean / std before resampling: 1.00 / 0.00.
+[INFO] Creating meta-batches with cell_sentence_len=1...
+[INFO] Of all batches, 161662 were full and 0 were partial.
+[INFO] Sampler created with 1263 batches in 0.18 seconds.
+[INFO] Of all batches, 161662 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Configuration validation passed
+[INFO] Initializing DataModule: batch_size=128, workers=24, random_seed=42
+[INFO] Processing dataset replogle:
+[INFO]   - Training dataset: True
+[INFO]   - Zeroshot cell types: []
+[INFO]   - Fewshot cell types: ['k562']
+[INFO] 
+
+[INFO] Done! Train / Val / Test splits: 2 / 0 / 0
+[INFO] Creating perturbation batch sampler with metadata caching (using codes)...
+[INFO] Configuration validation passed
+[INFO] Initializing DataModule: batch_size=128, workers=24, random_seed=42
+[INFO] Processing dataset replogle:
+[INFO]   - Training dataset: True
+[INFO]   - Zeroshot cell types: []
+[INFO]   - Fewshot cell types: ['k562']
+[INFO] 
+
+[INFO] Done! Train / Val / Test splits: 2 / 0 / 0
+[INFO] Creating perturbation batch sampler with metadata caching (using codes)...
+[INFO] Total # cells 161662. Cell set size mean / std before resampling: 1.00 / 0.00.
+[INFO] Creating meta-batches with cell_sentence_len=1...
+[INFO] Of all batches, 161662 were full and 0 were partial.
+[INFO] Sampler created with 1263 batches in 0.21 seconds.
+[INFO] Of all batches, 161662 were full and 0 were partial.
+[INFO] Configuration validation passed
+[INFO] Initializing DataModule: batch_size=128, workers=24, random_seed=42
+[INFO] Processing dataset replogle:
+[INFO]   - Training dataset: True
+[INFO]   - Zeroshot cell types: []
+[INFO]   - Fewshot cell types: ['K562-test']
+[INFO] 
+
+[INFO] Done! Train / Val / Test splits: 2 / 1 / 1
+[INFO] Creating perturbation batch sampler with metadata caching (using codes)...
+[INFO] Total # cells 9746. Cell set size mean / std before resampling: 1.00 / 0.00.
+[INFO] Creating meta-batches with cell_sentence_len=1...
+[INFO] Of all batches, 9746 were full and 0 were partial.
+[INFO] Sampler created with 77 batches in 0.01 seconds.
+[INFO] Of all batches, 9746 were full and 0 were partial.
+[INFO] Creating perturbation batch sampler with metadata caching (using codes)...
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 9801 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Configuration validation passed
+[INFO] Initializing DataModule: batch_size=128, workers=24, random_seed=42
+[INFO] Processing dataset replogle:
+[INFO]   - Training dataset: True
+[INFO]   - Zeroshot cell types: []
+[INFO]   - Fewshot cell types: ['K562-test']
+[INFO] 
+
+[INFO] Done! Train / Val / Test splits: 2 / 1 / 1
+[INFO] Creating perturbation batch sampler with metadata caching (using codes)...
+[INFO] Total # cells 20437. Cell set size mean / std before resampling: 1.00 / 0.00.
+[INFO] Creating meta-batches with cell_sentence_len=1...
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Sampler created with 160 batches in 0.02 seconds.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Creating perturbation batch sampler with metadata caching (using codes)...
+[INFO] Total # cells 124132. Cell set size mean / std before resampling: 1.00 / 0.00.
+[INFO] Creating meta-batches with cell_sentence_len=1...
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Sampler created with 970 batches in 0.15 seconds.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 611710 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Configuration validation passed
+[INFO] Initializing DataModule: batch_size=128, workers=24, random_seed=42
+[INFO] Processing dataset replogle:
+[INFO]   - Training dataset: True
+[INFO]   - Zeroshot cell types: []
+[INFO]   - Fewshot cell types: ['K562-test']
+[INFO] 
+
+[INFO] Done! Train / Val / Test splits: 2 / 1 / 1
+[INFO] Creating perturbation batch sampler with metadata caching (using codes)...
+[INFO] Total # cells 20437. Cell set size mean / std before resampling: 1.00 / 0.00.
+[INFO] Creating meta-batches with cell_sentence_len=1...
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Sampler created with 160 batches in 0.02 seconds.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Creating perturbation batch sampler with metadata caching (using codes)...
+[INFO] Total # cells 124132. Cell set size mean / std before resampling: 1.00 / 0.00.
+[INFO] Creating meta-batches with cell_sentence_len=1...
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Sampler created with 970 batches in 0.15 seconds.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.
+[INFO] Of all batches, 124132 were full and 0 were partial.
+[INFO] Of all batches, 20437 were full and 0 were partial.

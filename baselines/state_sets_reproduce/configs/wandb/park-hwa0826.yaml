@@ -1,0 +1,7 @@
+
+project: state-sets-reproduce
+entity: park-hwa0826
+name: state-sets-reproduce
+tags:
+  - state-sets-reproduce
+local_wandb_dir: ./local_wandb
